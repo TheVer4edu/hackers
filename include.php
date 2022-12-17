@@ -12,4 +12,6 @@ $page[ 'body' ] .= "
 </div>
 ";
 
+echo "Hello world!"
+
 ?>
