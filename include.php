@@ -7,6 +7,6 @@ $page[ 'body' ] .= "
 die("System fault");
 ";
 
-//die("System fault");
+die("System fault");
 
 ?>
